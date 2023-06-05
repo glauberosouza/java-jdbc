@@ -1,4 +1,4 @@
-# banco-de-dados
+# Estudo sobre java, banco de dados e dockers.
 ## Comandos úteis:
 > para subir todos os serviços de um docker compose: docker compose up
 > 
