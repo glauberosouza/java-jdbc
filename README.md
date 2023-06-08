@@ -1,10 +1,10 @@
-# Estudo sobre java, banco de dados e dockers.
+# Estudo sobre java, JDBC, banco de dados e dockers.
 ## Comandos úteis:
 > para subir todos os serviços de um docker compose: docker compose up
 > 
 > Para subir apenas um serviço de um arquivo de um docker compose: docker compose up "nomeDoServiço" 
 
-### Estudo sobre banco de dados e jdbc, foi criado uma classe PersonDao para realizar a persistência de dados.
+### Foi criado uma classe PersonDao para realizar a persistência de dados.
 > - Ela possui vários métodos para realizar diferentes operações, como salvar, recuperar, atualizar e excluir registros de pessoas no banco de dados.
 
 ### A classe ConnectionFactory é responsável por fornecer uma conexão com o banco de dados. 
